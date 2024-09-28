@@ -28,10 +28,8 @@ Price:
 6 Month Deal:
 
 UNLIMITED BOOKINGS LIMITED OFFER:
-	
- >> (£62 on DVSA) £62 + £30
  
- >> (£75 on DVSA) £75 + £30
+ >> (£62 // £75 on DVSA) £75 + £30
  
 Runs out on 01/05/25 (1st May 2025)
 
