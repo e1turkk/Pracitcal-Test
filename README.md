@@ -17,21 +17,30 @@ We need the following to put onto our system:
 
 IMPORTANT: Residence Requirement: You must have lived in the UK for at least 185 days in the last 12 months before taking the test
 ​
+
 Price:
-	>> £85 for Weekday
+
+>> £85 for Weekday
  
-	>> £95 for Weekend / Evening / Bank-holidays
+>> £95 for Weekend / Evening / Bank-holidays
+
 
 THESE PRICES ARE NON-NEGOTIABLE
 
 
+
 Refund Policy:
-	-- Refunds can be made before the test is booked. If the test has been booked the refund CANNOT be made.
-		THIS POLICY IS NON-NEGOTIABLE, AND NO EXCEPTIONS.
+
+-- Refunds can be made before the test is booked. If the test has been booked the refund CANNOT be made.
+
+THIS POLICY IS NON-NEGOTIABLE, AND NO EXCEPTIONS.
+
 
 
 Questions:
-	Add my snap for any questions @e1turkk
+
+Add my snap for any questions @e1turkk
+
 
 
 Start Date: 01/11/24 (1st November 2024)
