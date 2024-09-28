@@ -20,9 +20,20 @@ IMPORTANT: Residence Requirement: You must have lived in the UK for at least 185
 
 Price:
 
->> £85 for Weekday
+>> (£62 on DVSA) £85 for Weekday
  
->> £95 for Weekend / Evening / Bank-holidays
+>> (£75 ON DVSA) £95 for Weekend / Evening / Bank-holidays
+
+
+6 Month Deal:
+
+UNLIMITED BOOKINGS LIMITED OFFER:
+	
+ >> (£62 on DVSA) £62 + £30
+ 
+ >> (£75 on DVSA) £75 + £30
+ 
+Runs out on 01/05/25 (1st May 2025)
 
 
 THESE PRICES ARE NON-NEGOTIABLE
