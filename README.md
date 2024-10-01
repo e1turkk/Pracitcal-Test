@@ -53,3 +53,13 @@ Add my snap for any questions @e1turkk
 
 
 Start Date: 01/11/24 (1st November 2024)
+
+
+General Process:
+    1. Requested details are sent (see beginning of this file)
+    2. Account will be created using the details sent
+    3. User account will have balance, balance will be used to make plan purchase (see "Price" for plans)
+    4. Server will reject plan purchase if account holds insufficient balance
+    5. To add balance to account, direct bank transfer to bank details (message me @e1turkk on snap for this info)
+    6. During transfer process type in your license number as the reference (DOUBLE CHECK REFERENCE BEFORE TRANSFERING MONEY OVER)
+    7. Once money is transferred balance will automatically be added to the account holding the same license number as written on transfer reference 
