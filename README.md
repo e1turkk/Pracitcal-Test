@@ -14,9 +14,11 @@ We need the following to put onto our system:
 
 5 - Preferred Date and Time (Try to keep the range high for a higher success rate of the booking to be placed)
 
+•
 
 IMPORTANT: Residence Requirement: You must have lived in the UK for at least 185 days in the last 12 months before taking the test
 ​
+•
 
 Price:
 
