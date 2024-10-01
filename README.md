@@ -20,16 +20,16 @@ IMPORTANT: Residence Requirement: You must have lived in the UK for at least 185
 
 Price:
 
->> (£62 on DVSA) £85 for Weekday
+>> (£62 on DVSA) £85 for Weekday (DVSA - Basic Plan)
  
->> (£75 ON DVSA) £95 for Weekend / Evening / Bank-holidays
+>> (£75 ON DVSA) £95 for Weekend / Evening / Bank-holidays (DVSA - Standard Plan)
 
 
 6 Month Deal:
 
 UNLIMITED BOOKINGS LIMITED OFFER:
  
- >> (£62 // £75 on DVSA) £75 + £30
+ >> (£62 // £75 on DVSA) £75 + £30 (DVSA - LIMITED Plan)
  
 Runs out on 01/05/25 (1st May 2025)
 
