@@ -37,7 +37,7 @@ Runs out on 01/05/25 (1st May 2025)
 
 THESE PRICES ARE NON-NEGOTIABLE
 
-
+•
 
 Refund Policy:
 
@@ -45,16 +45,17 @@ Refund Policy:
 
 THIS POLICY IS NON-NEGOTIABLE, AND NO EXCEPTIONS.
 
-
+•
 
 Questions:
 
 Add my snap for any questions @e1turkk
 
-
+•
 
 Start Date: 01/11/24 (1st November 2024)
 
+•
 
 General Process:
 
@@ -66,6 +67,7 @@ General Process:
     6. During transfer process type in your license number as the reference (DOUBLE CHECK REFERENCE BEFORE TRANSFERING MONEY OVER)
     7. Once money is transferred balance will automatically be added to the account holding the same license number as written on transfer reference 
 
+•
 
 How the DVSA - LIMITED Plan works (MUST READ):
 
@@ -74,6 +76,7 @@ How the DVSA - LIMITED Plan works (MUST READ):
     • You want to do another test between Monday - Friday 10am - 5pm (excluding Bank Holidays) you must send £62 (as per DVSA price)
     • So you will only need to pay DVSA price whether it is £62 or £75
 
+•
 
 FAQ:
 
