@@ -29,7 +29,7 @@ Price:
 
 UNLIMITED BOOKINGS LIMITED OFFER:
  
- >> (£62 // £75 on DVSA) £75 + £30 (DVSA - LIMITED Plan)
+ >> (£62 // £75 on DVSA) £105 (DVSA - LIMITED Plan)
  
 Runs out on 01/05/25 (1st May 2025)
 
