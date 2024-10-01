@@ -64,3 +64,23 @@ General Process:
     5. To add balance to account, direct bank transfer to bank details (message me @e1turkk on snap for this info)
     6. During transfer process type in your license number as the reference (DOUBLE CHECK REFERENCE BEFORE TRANSFERING MONEY OVER)
     7. Once money is transferred balance will automatically be added to the account holding the same license number as written on transfer reference 
+
+
+How the DVSA - LIMITED Plan works (MUST READ):
+
+    You purchase the plan for £105
+    If you fail the test, you must pay the DVSA booking price but will not have to pay the extra fee that we charge, so for example:
+    You want to do another test between Monday - Friday 10am - 5pm (excluding Bank Holidays) you must send £62 (as per DVSA price)
+    So you will only need to pay DVSA price whether it is £62 or £75
+
+
+FAQ:
+
+    Q: Difference between £62 Practical Exam and £75 Practical Exam?
+        A: DVSA charges for 2 different exams, one is flexible which is £75 and other is £62
+
+    Q: Difference between flexible & normal?
+        A: Flexible means you can choose to book your exam for Weekend, Weekday, Bank Holidays, Mornings, Afternoons and Evenings.
+            Whereas a normal would be strictly Morning, Afternoon & only during Weekdays (excluding Bank Holidays)
+
+£62 = Normal | £75 = Flexible
