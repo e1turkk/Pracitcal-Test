@@ -24,6 +24,7 @@ Price:
  
 >> (£75 ON DVSA) £95 for Weekend / Evening / Bank-holidays (DVSA - Standard Plan)
 
+•
 
 6 Month Deal:
 
