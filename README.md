@@ -16,10 +16,14 @@ We need the following to put onto our system:
 
 •
 
-IMPORTANT:
-
+IMPORTANT: 
 Residence Requirement: You must have lived in the UK for at least 185 days in the last 12 months before taking the test
 ​
+
+•
+
+----------- ONLY PROCEED WITH BELOW ONCE ABOVE HAS BEEN COMPLETED -----------
+
 •
 
 Price:
