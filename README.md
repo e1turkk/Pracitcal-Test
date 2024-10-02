@@ -83,7 +83,7 @@ How the DVSA - LIMITED Plan works (MUST READ):
     • If you fail the test, you must pay the DVSA booking price but will not have to pay the extra fee that we charge, so for example:
     • You want to do another test between Monday - Friday 10am - 5pm (excluding Bank Holidays) you must send £62 (as per DVSA price)
     • So you will only need to pay DVSA price whether it is £62 or £75
-
+Valid until: 01/05/25 (1st May 2025), after expiry you will need to repurchase one of our other two plans
 •
 
 FAQ:
