@@ -4,7 +4,7 @@ We need the following to put onto our system:
 
 1 - Preferred Test Centre
 
-1 - Provisional License (Front & Back)
+1 - Provisional License (Front & Back) !Clear Picture!
 
 2 - License Number (typed out in full)
 
